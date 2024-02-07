@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div className='mainpageTitle'>
-        <h1>React 연습용</h1>
+        <h1>React 연습용페이지입니다.</h1>
       </div>
       <nav>
         <Link to="/src/routes/react_router_dom">DOM</Link>
