@@ -1,3 +1,4 @@
+import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 
@@ -18,8 +19,6 @@ function App() {
           Learn React
         </a>
       </header>
-
-      <h1>React 연습용</h1>
     </div>
   );
 }
